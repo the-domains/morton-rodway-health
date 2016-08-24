@@ -1,0 +1,14 @@
+layout_spectrum: 0.8148716012947261
+typography_spectrum: 0.18952347664162517
+color:
+  brandStrength: 0.1644931675400585
+  lightness: 0.802273954031989
+  saturation: 0.8174290219321847
+  rhythmicContrast: 0.4581710190977901
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Morton-Rodway Health
